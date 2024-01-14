@@ -1,17 +1,14 @@
 # CYBER-X WHATSAPP BOT
 
-<p align = center>   <img src="https://telegra.ph/file/b35562cb0b662c1d24a73.jpg" alt="GIF" width="600" height="300"/> </p>
+<p align = center>   <img src="D4RK-root" alt="GIF" width="600" height="300"/> </p>
 
 <p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 
 ## Authors
 
-- [@DARKALPHAXTEAM](https://www.github.com/darkalphaxteam)
+- [@shiva](https://www.github.com/D4RK-root)
 
-## Support Group
-
-- [Join (Only Access for Bots) ](https://chat.whatsapp.com/IZhmddusPM41KkDXZkeRio)
 
 ## Own
 
